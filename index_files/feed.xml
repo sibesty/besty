@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>http://www.besty.co.uk/index.php</link><description>Hot News&#x21;</description><dc:language>en</dc:language><dc:creator>user@domain.com</dc:creator><dc:rights>Copyright 2013 Simon Best</dc:rights><dc:date>2013-06-21T09:58:00+01:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<admin:errorReportsTo rdf:resource="mailto:user@domain.com" /><sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Fri, 24 May 2013 12:42:23 +0100</lastBuildDate><item><title>SIB010 uploaded</title><dc:creator>user@domain.com</dc:creator><dc:subject>home</dc:subject><dc:date>2013-06-21T09:58:00+01:00</dc:date><link>http://www.besty.co.uk/index_files/e74911c520a0a237c7ae232c2626112e-6.php#unique-entry-id-6</link><guid isPermaLink="true">http://www.besty.co.uk/index_files/e74911c520a0a237c7ae232c2626112e-6.php#unique-entry-id-6</guid><content:encoded><![CDATA[My 10th upload, and something a little bit different&hellip;.]]></content:encoded></item><item><title>minor website changes</title><dc:creator>user@domain.com</dc:creator><dc:subject>home</dc:subject><dc:date>2013-06-13T15:10:40+01:00</dc:date><link>http://www.besty.co.uk/index_files/b97b686d5236bd9d5a3aae1f852c2235-4.php#unique-entry-id-4</link><guid isPermaLink="true">http://www.besty.co.uk/index_files/b97b686d5236bd9d5a3aae1f852c2235-4.php#unique-entry-id-4</guid><content:encoded><![CDATA[SEO mods and some tidying]]></content:encoded></item><item><title>besty.co.uk created</title><dc:creator>user@domain.com</dc:creator><dc:subject>home</dc:subject><dc:date>2013-06-05T15:20:26+01:00</dc:date><link>http://www.besty.co.uk/index_files/09a1b8aba06e03793b79d195d95fb9c4-2.php#unique-entry-id-2</link><guid isPermaLink="true">http://www.besty.co.uk/index_files/09a1b8aba06e03793b79d195d95fb9c4-2.php#unique-entry-id-2</guid><content:encoded><![CDATA[<strong>Welcome to besty.co.uk, home of SIB<br /></strong>I&rsquo;ll start this site off by posting the mixes that I&rsquo;ve been uploading to MixCloud since the end of 2012.  Download, listen, feel free to pass to your friends, and most of all... Enjoy!]]></content:encoded></item></channel>
+</rss>
